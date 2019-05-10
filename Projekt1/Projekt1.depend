@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557466369 source:/home/pi/Desktop/Projekt1/Projekt1/main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<math.h>
+	<float.h>
+	<wiringPi.h>
+
